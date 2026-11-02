@@ -1,0 +1,19 @@
+# generated results
+outputs/
+qc/
+qc_test/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.joblib
+*.log
+.env
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
